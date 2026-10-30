@@ -1,0 +1,12 @@
+{
+  "name": "anomalies",
+  "utc": "2026-10-17T20:46:48+00:00",
+  "n_anomalies": 68,
+  "n_controls": 303,
+  "confidence_threshold": 0.9,
+  "n_controls_per_anomaly": 5,
+  "tolerance_colour": 0.1,
+  "tolerance_mg": 0.4,
+  "filters": "in-domain, spectroscopic classes only, confident errors",
+  "note": "controls matched on colour and M_G within true class,so later divergences cannot be CMD position effects"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "gaia_field",
+  "utc": "2026-09-29T08:54:37+00:00",
+  "rows": 524917,
+  "total_passing_cuts": 1241209,
+  "subsample_fraction": 0.4229746964451595,
+  "random_index_span": 766307390,
+  "n_chunks": 3,
+  "authenticated": true,
+  "parallax_min": 5.0,
+  "parallax_over_error": 20,
+  "ruwe_max": 1.4,
+  "excess_factor_range": [
+    1.0,
+    1.5
+  ],
+  "output": "/Users/ishaanraghav/GaiaDR3/GaiaDR3Classifier/data/raw/gaia_field.parquet"
+}

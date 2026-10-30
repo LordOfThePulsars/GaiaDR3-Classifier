@@ -1,0 +1,20 @@
+{
+  "name": "threshold_sweep",
+  "utc": "2026-10-17T20:34:54+00:00",
+  "deltas": [
+    -0.25,
+    -0.35,
+    -0.45,
+    -0.55,
+    -0.65
+  ],
+  "adopted": -0.3,
+  "cause_spread": {
+    "frac_over-luminous_beyond_any_binary_(likely_subgiant)": 0.2625,
+    "frac_near_label_boundary": 0.2716,
+    "frac_unexplained": 0.098,
+    "frac_mildly_over-luminous,_cause_unclear": 0.0704,
+    "frac_variable_star": 0.0051,
+    "frac_metal-poor_subdwarf": 0.0399
+  }
+}

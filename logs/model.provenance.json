@@ -1,0 +1,22 @@
+{
+  "name": "model",
+  "utc": "2026-10-21T17:17:37+00:00",
+  "n_train": 46135,
+  "n_test": 15483,
+  "split": "GroupShuffleSplit on HEALPix level-3 sky patches from source_id",
+  "features": [
+    "bp_rp",
+    "bp_g",
+    "g_rp",
+    "mg",
+    "log_v_tan"
+  ],
+  "classes": [
+    "dwarf",
+    "evolved",
+    "white_dwarf"
+  ],
+  "lr_baseline_f1_dwarf_evolved": 0.9710706520883989,
+  "lgbm_f1_dwarf_evolved": 0.9858442163054019,
+  "note": "white_dwarf labels are geometric and therefore circular; dwarf-vs-evolved is the meaningful result"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "features",
+  "utc": "2026-10-17T20:45:54+00:00",
+  "rows": 524917,
+  "labelled_rows": 61618,
+  "class_counts": {
+    "dwarf": 37306,
+    "white_dwarf": 20867,
+    "evolved": 3445
+  },
+  "features": [
+    "bp_rp",
+    "bp_g",
+    "g_rp",
+    "mg",
+    "log_v_tan"
+  ],
+  "diagnostics_withheld": [
+    "ruwe",
+    "phot_bp_rp_excess_factor",
+    "phot_variable_flag",
+    "mh_gspspec",
+    "radial_velocity",
+    "b"
+  ],
+  "wd_selection": "mg > 2.27*bp_rp + 6.13, bp_rp < 1.5",
+  "output": "/Users/ishaanraghav/GaiaDR3/GaiaDR3Classifier/data/processed/features.parquet"
+}

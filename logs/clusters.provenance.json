@@ -1,0 +1,46 @@
+{
+  "name": "clusters",
+  "utc": "2026-10-16T20:44:35+00:00",
+  "rows": 1233,
+  "selection": {
+    "Hyades": {
+      "ra": 66.75,
+      "dec": 15.87,
+      "radius_deg": 15.0,
+      "parallax_range": [
+        16.0,
+        30.0
+      ],
+      "pmra_range": [
+        70.0,
+        140.0
+      ],
+      "pmdec_range": [
+        -60.0,
+        -5.0
+      ],
+      "age_myr": 700,
+      "expected_giants": 4
+    },
+    "Pleiades": {
+      "ra": 56.75,
+      "dec": 24.12,
+      "radius_deg": 5.0,
+      "parallax_range": [
+        6.5,
+        8.3
+      ],
+      "pmra_range": [
+        15.0,
+        25.0
+      ],
+      "pmdec_range": [
+        -52.0,
+        -38.0
+      ],
+      "age_myr": 125,
+      "expected_giants": 0
+    }
+  },
+  "note": "astrometric selection suchRUWE cut omitted so unresolved binaries survive"
+}

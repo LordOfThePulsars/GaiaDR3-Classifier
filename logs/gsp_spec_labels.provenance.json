@@ -1,0 +1,12 @@
+{
+  "name": "gsp_spec_labels",
+  "utc": "2026-09-29T12:04:54+00:00",
+  "rows": 109074,
+  "field_rows": 524917,
+  "coverage_fraction": 0.20779285106026285,
+  "strict_flag_rows": 43175,
+  "random_index_max": 766307390,
+  "authenticated": true,
+  "label_source": "GSP-Spec (RVS spectra) -- independent of BP/RP photometry",
+  "output": "/Users/ishaanraghav/GaiaDR3/GaiaDR3Classifier/data/raw/gsp_spec_labels.parquet"
+}

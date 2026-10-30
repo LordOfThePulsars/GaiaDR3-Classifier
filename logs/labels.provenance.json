@@ -1,0 +1,29 @@
+{
+  "name": "labels",
+  "utc": "2026-10-17T20:45:53+00:00",
+  "rows": 43175,
+  "trainable_rows": 40751,
+  "class_counts": {
+    "dwarf": 37306,
+    "evolved": 3445,
+    "ambiguous": 2424
+  },
+  "calibration": "Recio-Blanco et al. 2023 Table 3 Eq. 1 )",
+  "ridge_method": "KDE mode per Teff bin, degree-3 polynomial in Teff/5750",
+  "ridge_coefficients": [
+    8.917915379656964,
+    -22.870085382396,
+    18.91488239049167,
+    -0.7856059783097884
+  ],
+  "ridge_teff_range": [
+    4200,
+    6800
+  ],
+  "giant_logg_max": 3.5,
+  "subgiant_delta": -0.35,
+  "buffer_dex": 0.12,
+  "merge_evolved": true,
+  "target_variable": "lum_class",
+  "output": "/Users/ishaanraghav/GaiaDR3/GaiaDR3Classifier/data/processed/labels.parquets"
+}

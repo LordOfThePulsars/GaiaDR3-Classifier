@@ -1,0 +1,14 @@
+{
+  "name": "gaia_binaries",
+  "utc": "2026-10-17T20:49:19+00:00",
+  "sources": 35900,
+  "labelled": 14538,
+  "strict_flag_rows": 4856,
+  "ruwe_range": [
+    1.4,
+    3.0
+  ],
+  "random_index_max": 766307390,
+  "binary_fraction_of_union": 0.06401375136631023,
+  "note": "Complement of the Phase 1 RUWE cut; union of the two samples is the unbiased population."
+}

@@ -1,0 +1,18 @@
+{
+  "name": "attribution",
+  "utc": "2026-10-17T20:56:15+00:00",
+  "n_anomalies": 68,
+  "causes": {
+    "near label boundary": 40,
+    "over-luminous beyond any binary (likely subgiant)": 20,
+    "unexplained": 6,
+    "metal-poor subdwarf": 2
+  },
+  "unexplained_fraction": 0.08823529411764706,
+  "thresholds": {
+    "metal_poor": -0.4,
+    "high_vtan": 100.0,
+    "bright_excess": 0.368
+  },
+  "note": "causes assigned in priority order, one per object, so the attributed fraction is not inflated by double counting"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "wd_cut_calibration",
+  "utc": "2026-10-03T20:19:46+00:00",
+  "fitted_slope": 2.2717316458112533,
+  "fitted_intercept": 6.133952766987833,
+  "rms_scatter": 0.41560256802454615,
+  "mean_valley_depth": 0.9999997069106171,
+  "n_bins": 14,
+  "hand_chosen": [
+    3.0,
+    10.0
+  ],
+  "method": "density minimum between bimodal peaks per colour bin"
+}
